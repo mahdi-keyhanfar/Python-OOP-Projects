@@ -75,7 +75,7 @@ Item (Abstract Base Class)
 ابتدا مخزن را دریافت کنید:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/mahdi-keyhanfar/Python-OOP-Projects.git
 ```
 
 وارد پوشه پروژه شوید:
